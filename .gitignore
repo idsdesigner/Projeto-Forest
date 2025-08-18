@@ -1,0 +1,30 @@
+# Dependências e builds
+node_modules/
+dist/
+output.css
+package-lock.json
+package.json
+postcss.config.js
+tailwind.config.js
+
+# Arquivos de ambiente
+.env
+.env.local
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Logs e relatórios
+*.log
+npm-debug.log*
+
+# Configurações de IDE
+.idea/
+.vscode/
+
+# Imagens do curso 
+src/img/
+
+# Cache do Tailwind
+.tailwindcss/
